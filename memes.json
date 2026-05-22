@@ -1,0 +1,89 @@
+{
+	"$schema-note": "Manifest for downstream consumers (e.g. millsymills.com's memes.exe via #250). Each entry: id (stable slug used by consumers), file (path relative to memes/), alt (accessibility text), caption (display tagline). Add new memes by dropping the image into memes/ and appending an entry here in the same PR.",
+	"memes": [
+		{
+			"id": "claude-my-bro",
+			"file": "claude-my-bro.jpg",
+			"alt": "two anime characters in a cel-style scene — one with a wide unsettling grin handshakes another, an orange \"pow\" burst over the clasped hands",
+			"caption": "claude, my bro"
+		},
+		{
+			"id": "not-now-sweaty",
+			"file": "cyber-bully.png",
+			"alt": "sims-style screenshot: \"not now sweaty, mommy's cyber bullying\"",
+			"caption": "mommy's cyber bullying"
+		},
+		{
+			"id": "cyberpunk-dystopia",
+			"file": "cyber-dystopia.jpg",
+			"alt": "man in glowing visor and wide-brim hat: \"you best start believing in cyberpunk dystopias / you're in one\"",
+			"caption": "you're in one"
+		},
+		{
+			"id": "cyber-warfare-experts",
+			"file": "cyber-panel.jpg",
+			"alt": "futurama news show: \"let's check in with our panel of 'experts' on cyber warfare\" — a four-up grid of cartoon panelists",
+			"caption": "panel of experts"
+		},
+		{
+			"id": "esp-wroom-dab",
+			"file": "eee-wroom-dab.jpg",
+			"alt": "mocked-up espressif wifi module labeled \"ESP-WROOM-DAB\" with both pcb antennas raised in a dab pose",
+			"caption": "esp-wroom-dab"
+		},
+		{
+			"id": "hacker-knows-my-address",
+			"file": "hackers-address.jpg",
+			"alt": "bane and pink-suit guy: \"hacker saying he knows my address\" / \"me who's known it for a long time\"",
+			"caption": "threat model: realistic"
+		},
+		{
+			"id": "cd-downloads",
+			"file": "linux.jpg",
+			"alt": "three-line caption \"my folder: Downloads / me: cd downloads / linux:\" over loki saying \"I've never met this man in my life\"",
+			"caption": "case sensitivity is a virtue"
+		},
+		{
+			"id": "yolo-computer",
+			"file": "lose-access.jpg",
+			"alt": "aura-style poster of a glowing crt: \"you only live once. try to spend as much time on the computer as possible. after you die, you won't have access to it anymore.\"",
+			"caption": "YOLO at the screen"
+		},
+		{
+			"id": "me-irl",
+			"file": "me-irl.jpg",
+			"alt": "romy & michele scene — woman in pastel sunhat, sunglasses, scarf and pearls at a glass-top patio table with a lavender zenith laptop and an iced tea",
+			"caption": "me irl"
+		},
+		{
+			"id": "sailor-moon-computer",
+			"file": "moon.jpg",
+			"alt": "two sailor moon panels — top: \"I'll just warn you now. I don't know how to use a computer.\" / bottom (newer art): \"I should tell you, I still don't know how to use a computer.\" — caption \"22 years later, still doesn't know how to use a Computer…\"",
+			"caption": "22 years later"
+		},
+		{
+			"id": "secops-asleep",
+			"file": "secops.jpg",
+			"alt": "four-panel comic — guy on phone proposes a base64 powershell loader, then drops it in %Public% via UserInitMprLogonScript; final panel a dog labeled SECOPS, asleep in bed",
+			"caption": "secops, asleep"
+		},
+		{
+			"id": "vpn-tunneling",
+			"file": "vpn-tunneling.png",
+			"alt": "two tuxedoed men sharing one fishbowl space helmet, captioned \"VPN Tunneling\"",
+			"caption": "vpn tunneling"
+		},
+		{
+			"id": "surf-the-web",
+			"file": "weekend.jpg",
+			"alt": "arthur cartoon — rat-character at a CRT, \"Why, I could surf the Web all weekend!\"",
+			"caption": "surf the Web all weekend"
+		},
+		{
+			"id": "but-it-runs",
+			"file": "worst-code.jpg",
+			"alt": "pirates of the caribbean three-panel — norrington: \"Your code is without a doubt the worst I have ever run\" / jack sparrow with a finger raised / \"But it does run\"",
+			"caption": "but it does run"
+		}
+	]
+}
